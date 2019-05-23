@@ -18,6 +18,9 @@
 - [Bootstrap Landing - Faztweb](https://www.faztweb.com/curso/bootstrap4-landing-page-three)
 - [Bootstrap 4 Landing Page - Faztweb](https://www.faztweb.com/curso/bootstrap4-landing-page-one)
 - [Bootstrap 4 Primer fold](https://www.faztweb.com/curso/bootstrap4-landing-page)
+- [Grid Bootstrap 4 - Educa Código](https://www.youtube.com/watch?v=jWwArlGxVTU)
+- [Bootstrap 4 imágenes - Educa Código](https://www.youtube.com/watch?v=UhJzAJ5P8d4)
+- [Slider Bootstrap 4 - Educa Código](https://www.youtube.com/watch?v=UvQdXB1lndE)
 
 ## JavaScript
 
